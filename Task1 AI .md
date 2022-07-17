@@ -4,8 +4,8 @@
 #### Then I downloaded Ubuntu 20.04.4
 ##### Download Link [https://releases.ubuntu.com/20.04/]
 ##### Then after installing Ubuntu on the virtual box, I opened the terminal and I typed the following commands to install the (( Ros ))
-##### I take the commands to install the rose from the official site [http://wiki.ros.org/Installation/Ubuntu]
-#### Commands to install the rose
+##### I take the commands to install the Ros from the official site [http://wiki.ros.org/Installation/Ubuntu]
+#### Commands to install the Ros
 ## 1- Installation
 ## 2- Setup your sources.list
 ~~~~
